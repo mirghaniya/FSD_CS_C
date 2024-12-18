@@ -1,0 +1,19 @@
+nav {
+    background-color: lightblue;
+    margin-top: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+  }
+  
+  ul li {
+    color: blueviolet;
+    font-size: 40px;
+  }
+  
+  ul li a {
+    text-decoration: none;
+  }
